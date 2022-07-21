@@ -19,6 +19,7 @@ dd {
   margin: 0;
 }
 body {
+    width: 100%;
     min-height: 100vh;
     text-rendering: optimizeSpeed;
     line-height: 1.5;
@@ -98,4 +99,9 @@ body {
 }
 .advice_button:hover{
   box-shadow: 0px 0px 41px 39px rgba(39,217,113,0.1);
+}
+@media (max-width:1179px){
+  .advice-container{
+    width:90%;
+  }
 }
