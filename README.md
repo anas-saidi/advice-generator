@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](./screenshot1.png)
 ### Links
-- Live Site URL: [](https://anascoder-hub.github.io/advice-generator/)
+- Live Site URL: [Advice Generator](https://anascoder-hub.github.io/advice-generator/)
 
 ## My process
 
