@@ -106,3 +106,20 @@ body {
     width:100%;
   }
 }
+.save_button{
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  right:15px;
+}
+.save_icon{
+  width: 24px;
+  height: 24px;
+}
+.unsaved{
+  background-image: url('images/heart_grey.png');
+}
+.saved{
+  background-image: url('images/heart.png');
+}
